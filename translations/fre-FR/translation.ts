@@ -10,11 +10,11 @@
 		</message>
         <message>
             <source>Antispam honeypot not filling</source>
-            <translation>Antispam honeypot à ne pas remplire</translation>
+            <translation>Antispam honeypot à ne pas remplir</translation>
         </message>
         <message>
             <source>not filling</source>
-            <translation>à ne pas remplire</translation>
+            <translation>à ne pas remplir</translation>
         </message>
         <message>
             <source>Confirm that you are not a machine, leave this field blank.</source>
